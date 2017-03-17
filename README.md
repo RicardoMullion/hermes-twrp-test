@@ -24,3 +24,6 @@ make -j4 clobber && make -j4 recoveryimage
 
 # License
 Apache License v2.0 (for all files expert kernel source)
+
+# Kernel source
+https://github.com/bjsiu/hermes-twrp-test-kernel
